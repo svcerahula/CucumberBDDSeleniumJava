@@ -1,0 +1,7 @@
+<suite name="UITests">
+    <test name="YoutubeTests">
+        <classes>
+            <class name="TestRunnerFiles.TestRunner"/>
+        </classes>
+    </test>
+</suite>
